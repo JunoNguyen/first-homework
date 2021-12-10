@@ -71,7 +71,7 @@ p {
     background-position: center;
 }
 
-.float-left {
+/* .float-left {
     float: left;
     margin-right: 25px;
 }
@@ -79,6 +79,12 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
+} */
+
+.float {
+    float: left;
+    margin-right: 25px;
+    
 }
 
 .content {
