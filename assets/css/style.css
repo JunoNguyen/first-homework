@@ -161,19 +161,23 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+/* .search-engine-optimization img {
     max-height: 200px;
-}
+} */
 
-.online-reputation-management img {
+/* .online-reputation-management img {
     max-height: 200px;
 }
 
 .social-media-marketing img {
     max-height: 200px;
+} */
+/* used content class to edit image height instead of having 3 separate classes */
+.content img {
+    max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+/* .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -184,6 +188,11 @@ p {
 }
 
 .social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+} */
+
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
